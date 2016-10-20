@@ -11,7 +11,7 @@ See repository on [Docker Hub](https://hub.docker.com/r/yannickvh/nginx/)
 
 # How to use this image
 
-Same way that the [official Nginx docker image](https://hub.docker.com/_/nginx/) but replace `nginx` image by `yannickvh/nginx`
+Same use as the [official Nginx docker image](https://hub.docker.com/_/nginx/) but replace `nginx` image by `yannickvh/nginx`
 
 # User Feedback
 
