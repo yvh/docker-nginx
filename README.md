@@ -2,7 +2,7 @@
 
 Custom build of Nginx based on the official build for docker.
 
-Check this image on the [Docker Hub](https://hub.docker.com/r/yannickvh/nginx)
+Please visit the [Docker Hub](https://hub.docker.com/r/yannickvh/nginx/)
 
 # Supported tags and respective `Dockerfile` links
 
