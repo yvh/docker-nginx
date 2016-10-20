@@ -13,7 +13,7 @@ Please visit the [Docker Hub](https://hub.docker.com/r/yannickvh/nginx/)
 
 # How to use this image
 
-Same way that the [official nginx docker image](https://hub.docker.com/_/nginx/) but replace `nginx` image by `yannickvh/nginx`
+Same way that the [official Nginx docker image](https://hub.docker.com/_/nginx/) but replace `nginx` image by `yannickvh/nginx`
 
 # User Feedback
 
@@ -33,4 +33,4 @@ Documentation for this image is stored in the [`nginx/` directory](https://githu
 
 ## Credits
 
-This image is based from the [official nginx docker image](https://hub.docker.com/_/nginx/)
+This image is based from the [official Nginx docker image](https://hub.docker.com/_/nginx/)
