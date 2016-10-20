@@ -7,9 +7,9 @@ Check this image on the [Docker Hub](https://hub.docker.com/r/yannickvh/nginx)
 # Supported tags and respective `Dockerfile` links
 
 - [ `latest` (*latest/Dockerfile*)](https://github.com/yvh/docker-nginx/blob/master/latest/Dockerfile)
-- [ `1.11` (*1.11/Dockerfile*)](https://github.com/yvh/docker-nginx/tree/master/1.11/Dockerfile)
-- [ `1.10` (*1.10/Dockerfile*)](https://github.com/yvh/docker-nginx/tree/master/1.10/Dockerfile)
-- [ `1.9` (*1.9/Dockerfile*)](https://github.com/yvh/docker-nginx/tree/master/1.9/Dockerfile)
+- [ `1.11` (*1.11/Dockerfile*)](https://github.com/yvh/docker-nginx/blob/master/1.11/Dockerfile)
+- [ `1.10` (*1.10/Dockerfile*)](https://github.com/yvh/docker-nginx/blob/master/1.10/Dockerfile)
+- [ `1.9` (*1.9/Dockerfile*)](https://github.com/yvh/docker-nginx/blob/master/1.9/Dockerfile)
 
 # How to use this image
 
