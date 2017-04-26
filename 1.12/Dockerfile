@@ -1,4 +1,4 @@
-FROM nginx:1.11
+FROM nginx:1.12
 MAINTAINER Yannick Vanhaeren
 
 RUN set -ex \
